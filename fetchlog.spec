@@ -6,7 +6,6 @@ License:	GPL
 Group:		System/Kernel and hardware
 URL:		http://sourceforge.net/projects/fetchlog/
 Source0:	http://prdownloads.sourceforge.net/fetchlog/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 The fetchlog utility displays the last new messages of a logfile
