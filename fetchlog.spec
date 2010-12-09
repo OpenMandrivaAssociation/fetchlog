@@ -1,7 +1,7 @@
 Summary:	Fetch and convert new messages of a logfile
 Name:		fetchlog
 Version:	1.2
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	GPL
 Group:		System/Kernel and hardware
 URL:		http://sourceforge.net/projects/fetchlog/
