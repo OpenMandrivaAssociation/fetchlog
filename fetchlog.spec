@@ -1,7 +1,7 @@
 Summary:	Fetch and convert new messages of a logfile
 Name:		fetchlog
 Version:	1.4
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		System/Kernel and hardware
 URL:		http://sourceforge.net/projects/fetchlog/
@@ -29,7 +29,7 @@ install -m0755 fetchlog %{buildroot}%{_bindir}/
 install -m0644 fetchlog.1 %{buildroot}%{_mandir}/man1/
 
 %files
-%doc CHANGES LICENSE README README.Nagios README.SNMP
+%doc CHANGES README README.Nagios README.SNMP
 %{_bindir}/*
 %{_mandir}/man1/*
 
