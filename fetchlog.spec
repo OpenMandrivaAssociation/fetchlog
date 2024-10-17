@@ -4,7 +4,7 @@ Version:	1.6
 Release:	1
 License:	GPLv2+
 Group:		System/Kernel and hardware
-URL:		http://sourceforge.net/projects/fetchlog/
+URL:		https://sourceforge.net/projects/fetchlog/
 Source0:	http://prdownloads.sourceforge.net/fetchlog/%{name}-%{version}.tar.gz
 
 %description
