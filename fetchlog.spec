@@ -7,6 +7,7 @@ Group:		System/Kernel and hardware
 URL:		https://sourceforge.net/projects/fetchlog/
 Source0:	http://prdownloads.sourceforge.net/fetchlog/%{name}-%{version}.tar.gz
 
+BuildRequires:	make
 %description
 The fetchlog utility displays the last new messages of a logfile
 (syslog).  fetchlog is similar like tail but offers some extra
